@@ -1,0 +1,33 @@
+// question no. 6 on permutations
+
+party
+
+#include<iostream>
+
+using namespace std;
+
+int main() {
+
+int i,guests, chairs, total=1; cout<<"Enter the no. of guests
+
+cin>>guests;
+
+cout <<"Enter the no. of chairs
+
+cin>>chairs;
+
+if(guests>chairs){
+
+for(i=0; i<chairs;i++){ total total guests;
+
+guests --;
+
+}
+
+}
+
+cout << "Number of possible
+
+arrangements are " <<< total
+
+return 0;
